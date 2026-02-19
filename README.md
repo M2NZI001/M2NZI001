@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mtunzi Bandezi
 #### I am an aspiring software developer/Engineer
-I am an aspiring software developer/Engineer,
+
 Detail-oriented IT professional with good technical foundation in software development, database design, and systems analysis. Currently applying analytical and problem-solving skills in aviation operations while actively developing programming expertise through personal projects. Demonstrated ability to learn quickly, work under pressure, and deliver quality results in multicultural environments.
 
 **Core Strengths** Programming • Database Design • System Development • Technical Analysis • Self-Directed Learning
